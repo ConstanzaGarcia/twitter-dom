@@ -1,0 +1,32 @@
+header {
+	background-color:#0F94F1;
+	text-align: center;
+}
+
+header div img {
+	width: 15em;
+}
+
+textarea {
+	width: 70%;
+	height: 4em;
+	color: #4E4D53;
+	font-size: 15px;
+	padding: 1em;
+	border-radius: 1em;
+	border: none;
+    margin: 0 auto;
+    background-color: #66AEC7;
+}
+
+#btn {
+	background-color: #66AEC7;
+	border: 0px;
+	cursor: pointer;
+	text-align: center;
+	margin: 3em auto;
+	width: 130px;
+	height: 30px;
+	display: block;
+	color: #FFF;
+}
